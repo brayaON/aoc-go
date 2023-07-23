@@ -1,10 +1,14 @@
 package main
 
 import (
-    aoc2022 "advent-of-code/aoc2022/01"
+    aoc202201 "advent-of-code/aoc2022/01"
+    aoc202202 "advent-of-code/aoc2022/02"
 )
 
 func main() {
-    aoc2022.SolveP1()
-    aoc2022.SolveP2()
+    aoc202201.SolveP1()
+    aoc202201.SolveP2()
+
+    aoc202202.SolveP1()
+    aoc202202.SolveP2()
 }
