@@ -5,6 +5,7 @@ import (
     aoc202202 "advent-of-code/aoc2022/02"
     aoc202203 "advent-of-code/aoc2022/03"
     aoc202204 "advent-of-code/aoc2022/04"
+    aoc202205 "advent-of-code/aoc2022/05"
 )
 
 func main() {
@@ -19,4 +20,6 @@ func main() {
 
     aoc202204.SolveP1()
     aoc202204.SolveP2()
+
+    aoc202205.SolveP1()
 }
